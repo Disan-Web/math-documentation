@@ -300,12 +300,13 @@ A famous list of 23 open problems, called "Hilbert's problems", was compiled in 
       <p>
       This documentation has been taken from
       <a href="https://en.m.wikipedia.org/wiki/Mathematics" target="_blank">wikipedia</a>
+        by Mirimu Disan Mathison.
         
       </p>
         
     </article>
   </section><br>
 
-  <footer style="text-align: center;">&copy; 2021, Mirimu Disan Mathison
+  <footer style="text-align: center;">&copy; 2022, Mirimu Disan Mathison
   </footer>
 </main>
