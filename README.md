@@ -306,6 +306,7 @@ A famous list of 23 open problems, called "Hilbert's problems", was compiled in 
         
     </article>
   </section><br>
+  </main>
 
   <footer style="text-align: center;">&copy; 2022, Mirimu Disan Mathison
   </footer>
